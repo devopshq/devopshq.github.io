@@ -11,7 +11,7 @@ This is welcome page of the DevOpsHQ project. You can see english documentation 
 
 # Цели сообщества <a name="Introduction"></a>
 
-Всем привет! :) [DevOpsHQ](https://github.com/devopshq) — это небольшой проект нескольких DevOps-разработчиков, где мы выкладываем инструменты, которыми пользуемся в нашей повседневной работе. Все инструменты под MIT-лицензией. Будем очень рады, если вы захотите поддержать нас своими коммитами! Контрибьютером может стать любой желающий :)
+Всем привет! [DevOpsHQ](https://github.com/devopshq) — это небольшой проект нескольких DevOps-разработчиков, где мы выкладываем инструменты, которыми пользуемся в нашей повседневной работе. Все инструменты под MIT-лицензией. Будем очень рады, если вы захотите поддержать нас своими коммитами! Контрибьютером может стать любой желающий :)
 
 По любым вопросам можно обратиться к админам проекта: [Alexander Pazdnikov](https://github.com/apazdnikov), [Timur Gilmullin](https://github.com/Tim55667757) и [Aleksey Burov](https://github.com/orgs/devopshq/people/allburov). 
 
@@ -28,19 +28,19 @@ This is welcome page of the DevOpsHQ project. You can see english documentation 
 
 Опубликованные инструменты:
 
-**[ExampleProject](https://github.com/devopshq/ExampleProject)** — это пример простого типового проекта в собществе DevOpsHQ с базовой функциональностью. Документация содержит в себе примеры и рекомендации для самостоятельной организации сборки любого нового проекта в сообществе DevOpsHQ. Сам проект имеет типовую структуру и сборку в Travis CI. Фактически, достаточно скопировать этот проект, заменить некоторые настройки и новый проект в сообществе готов к использованию!
+**[ExampleProject](https://devopshq.github.io/ExampleProject/)** — это пример простого типового проекта в собществе DevOpsHQ с базовой функциональностью. Документация содержит в себе примеры и рекомендации для самостоятельной организации сборки любого нового проекта в сообществе DevOpsHQ. Сам проект имеет типовую структуру и сборку в Travis CI. Фактически, достаточно скопировать этот проект, заменить некоторые настройки и новый проект в сообществе готов к использованию!
 
-**[CrossPM](https://github.com/devopshq/crosspm)** — универсальный пакетный менеджер.
+**[CrossPM](http://devopshq.github.io/crosspm/)** — универсальный пакетный менеджер.
 
-**[vspheretools](https://github.com/devopshq/vspheretools)** — инструмент для управления виртуальными машинами на vSphere.
+**[vspheretools](http://devopshq.github.io/vspheretools/)** — инструмент для управления виртуальными машинами на vSphere.
 
-**[YouTrack Python 3 Client Library](https://github.com/devopshq/youtrack)** — Python-клиент для работы с API YouTrack.
+**[YouTrack Python 3 Client Library](https://devopshq.github.io/youtrack/)** — Python-клиент для работы с API YouTrack.
 
-**[TFS API Python client](https://github.com/devopshq/tfs)** — Python-клиент для работы с API Team Foundation Server от Microsoft.
+**[TFS API Python client](https://devopshq.github.io/tfs/)** — Python-клиент для работы с API Team Foundation Server от Microsoft.
 
-**[A Python client for Artifactory](https://github.com/devopshq/artifactory)** — Python-клиент для работы с API хранилища бинарных данных Artifactory.
+**[A Python client for Artifactory](https://devopshq.github.io/artifactory/)** — Python-клиент для работы с API хранилища бинарных данных Artifactory.
 
-**[FuzzyClassificator](https://github.com/devopshq/FuzzyClassificator)** — нейро-нечёткий классификатор данных.
+**[FuzzyClassificator](https://devopshq.github.io/FuzzyClassificator/)** — нейро-нечёткий классификатор данных.
 
 Готовятся к публикации: 
 
@@ -72,3 +72,6 @@ This is welcome page of the DevOpsHQ project. You can see english documentation 
     - "[Сообщество DevOpsHQ идеология и инструменты](https://www.youtube.com/watch?v=BeIeaeVVRbc&index=16&t=0s&list=PLEl1NAXHTFNxcKRN09VQThNbQ33neUyfn)" — анонс открытого сообщества Open DevOps Community. 
 - [Op!DevOps! 2017](https://www.youtube.com/playlist?list=PLEl1NAXHTFNyUW3toSkHLL4Jl1cw4vWkc) — митап Op!DevOps! 2017 прошёл 21 октября в московском офисе компании Positive Technologies. Мы провели приятный субботний вечер и в узком, почти семейном кругу, обсудили проблемы автоматизации, которые удалось решить нашей DevOps-команде за прошедший год. Кроме того, мы рассмотрели некоторые технологии и инструменты, поделились планами развития DevOps. 
     - "[Развитие сообщества Open DevOps Community](https://www.youtube.com/watch?v=fYjV-eZlvVA&t=46s&list=PLEl1NAXHTFNyUW3toSkHLL4Jl1cw4vWkc&index=8)" — рассказали о развитии сообщества Open DevOps Community, показали опубликованные проекты за 2017 год, поделились планами развития сообщества. 
+
+Немного наших стикеров для телеграмма :)
+https://telegram.me/addstickers/opdevops

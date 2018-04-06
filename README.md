@@ -26,7 +26,7 @@ This is welcome page of the DevOpsHQ project. You can see english documentation 
 
 # Ссылки на наши проекты <a name="Links"></a>
 
-Опубликованные инструменты:
+***Опубликованные инструменты:***
 
 **[ExampleProject](https://devopshq.github.io/ExampleProject/)** — это пример простого типового проекта в собществе DevOpsHQ с базовой функциональностью. Документация содержит в себе примеры и рекомендации для самостоятельной организации сборки любого нового проекта в сообществе DevOpsHQ. Сам проект имеет типовую структуру и сборку в Travis CI. Фактически, достаточно скопировать этот проект, заменить некоторые настройки и новый проект в сообществе готов к использованию!
 
@@ -42,7 +42,7 @@ This is welcome page of the DevOpsHQ project. You can see english documentation 
 
 **[FuzzyClassificator](https://devopshq.github.io/FuzzyClassificator/)** — нейро-нечёткий классификатор данных.
 
-Готовятся к публикации: 
+***Готовятся к публикации:***
 
 **CrossBuilder** — система организации кросс-платформенных сборок Build As a Code, наподобие Travis CI, но независящая от используемой CI-системы (TeamCity, Jenkins, GitLab CI, Travis CI и прочих). 
 

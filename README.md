@@ -59,14 +59,14 @@ This is welcome page of the DevOpsHQ project. You can see english documentation 
 
 # О нас в Интернете <a name="About"></a>
 
-Почитать про нас можно тут:
+***Почитать про нас можно тут:***
 
 - "[Личный опыт: как выглядит наша система Continuous Integration](https://habrahabr.ru/company/pt/blog/313616/)" (статья на Хабре)
 - "[Миссия выполнима: как развить DevOps в компании со множеством проектов](https://habrahabr.ru/company/pt/blog/310584/)" (статья на Хабре)
 - "[DevOps в современных ИТ уже давно выделился в самостоятельную инженерную дисциплину﻿](http://samag.ru/archive/article/3543)" (интервью в Системном администраторе)
 - "[Автоматизация процессов разработки: как мы в Positive Technologies внедряли идеи DevOps](https://habrahabr.ru/company/pt/blog/343884/)" (статья на Хабре)
 
-Посмотреть на наши решения можно тут:
+***Посмотреть на наши решения можно тут:***
 
 - [Op!DevOps! 2016](https://www.youtube.com/playlist?list=PLEl1NAXHTFNxcKRN09VQThNbQ33neUyfn) — митап Op!DevOps! прошёл 7 октября 2016 г. в Москве. На нём в формате фаст-трека были озвучены проблемы в области автоматизации разработки и тестирования, а также предложены методы и средства их решения. 
     - "[Сообщество DevOpsHQ идеология и инструменты](https://www.youtube.com/watch?v=BeIeaeVVRbc&index=16&t=0s&list=PLEl1NAXHTFNxcKRN09VQThNbQ33neUyfn)" — анонс открытого сообщества Open DevOps Community. 

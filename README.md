@@ -1,6 +1,6 @@
 DevOpsHQ — это небольшой проект с инструментарием для DevOps-разработчиков 
 ===========================================================================
-This is welcome page of the DevOpsHQ project. You can see english documentation here: https://github.com/devopshq/devopshq/blob/master/README_EN.md
+This is welcome page of the DevOpsHQ project. You can see english documentation [here](https://github.com/devopshq/devopshq/blob/master/README_EN.md).
 
 
 ***Содержание:***

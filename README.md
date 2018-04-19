@@ -7,6 +7,7 @@ This is welcome page of the DevOpsHQ project. You can see english documentation 
 - [Цели сообщества](#Introduction)
 - [Ссылки на наши проекты](#Links)
 - [О нас в Интернете](#About)
+- [Контакты](#Contacts)
 
 
 # Цели сообщества <a name="Introduction"></a>
@@ -73,4 +74,9 @@ This is welcome page of the DevOpsHQ project. You can see english documentation 
 - [Op!DevOps! 2017](https://www.youtube.com/playlist?list=PLEl1NAXHTFNyUW3toSkHLL4Jl1cw4vWkc) — митап Op!DevOps! 2017 прошёл 21 октября в московском офисе компании Positive Technologies. Мы провели приятный субботний вечер и в узком, почти семейном кругу, обсудили проблемы автоматизации, которые удалось решить нашей DevOps-команде за прошедший год. Кроме того, мы рассмотрели некоторые технологии и инструменты, поделились планами развития DevOps. 
     - "[Развитие сообщества Open DevOps Community](https://www.youtube.com/watch?v=fYjV-eZlvVA&t=46s&list=PLEl1NAXHTFNyUW3toSkHLL4Jl1cw4vWkc&index=8)" — рассказали о развитии сообщества Open DevOps Community, показали опубликованные проекты за 2017 год, поделились планами развития сообщества. 
 
-Немного [наших стикеров](https://telegram.me/addstickers/opdevops) для телеграмма :)
+
+# Контакты <a name="Contacts"></a>
+
+- По организационным вопросам можно обратиться к [Timur Gilmullin](https://github.com/Tim55667757): [tim55667757@gmail.com](mailto:tim55667757@gmail.com)   
+- Наш телеграмм-канал: [https://telegram.me/devopshq](https://telegram.me/devopshq)
+    - Немного [наших стикеров](https://telegram.me/addstickers/opdevops) для телеграмма :)

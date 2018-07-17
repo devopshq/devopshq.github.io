@@ -1,73 +1,79 @@
-DevOpsHQ — это небольшой проект с инструментарием для DevOps-разработчиков 
-===========================================================================
-This is welcome page of the DevOpsHQ project. You can see english documentation [here](https://github.com/devopshq/devopshq/blob/master/README_EN.md).
+DevOpsHQ is a small project with tools for DevOps developers
+============================================================
+This is welcome page of the DevOpsHQ project. You can see full russian instruction [here](https://github.com/devopshq/devopshq/blob/master/README_RU.md/).
 
 
-***Содержание:***
-- [Цели сообщества](#Introduction)
-- [Ссылки на наши проекты](#Links)
-- [О нас в Интернете](#About)
-- [Контакты](#Contacts)
+***Table of contents:***
+- [Introduction](#Introduction)
+- [Our projects](#Links)
+- [About us](#About)
+- [Contacts](#Contacts)
 
 
-# Цели сообщества <a name="Introduction"></a>
+# Introduction <a name="Introduction"></a>
 
-Всем привет! [DevOpsHQ](https://github.com/devopshq) — это небольшой проект нескольких DevOps-разработчиков, где мы выкладываем инструменты, которыми пользуемся в нашей повседневной работе. Все инструменты под MIT-лицензией. Будем очень рады, если вы захотите поддержать нас своими коммитами! Контрибьютером может стать любой желающий :)
+[DevOpsHQ](https://github.com/devopshq) is a small project that contains tools we use in our daily work. All the tools are licensed under MIT.
+You are welcome to contribute to our project, help is appreciated.
 
-По любым вопросам можно обратиться к админам проекта: [Alexander Pazdnikov](https://github.com/apazdnikov), [Timur Gilmullin](https://github.com/Tim55667757) и [Aleksey Burov](https://github.com/orgs/devopshq/people/allburov). 
+If you have any questions you can contact project administrators: [Alexander Pazdnikov](https://github.com/apazdnikov), [Timur Gilmullin](https://github.com/Tim55667757) and [Aleksey Burov](https://github.com/orgs/devopshq/people/allburov). 
 
-**Наша глобальная цель.** Сформировать открытые готовые решения для управления полным циклом процесса разработки, тестирования и смежных процессов, а также доставки, развёртывания и лицензирования продуктов:
-1. Объединить в единую систему связанные знания о различных сборочных и деплойных методологиях, а также лучшие практики по доставке и развёртыванию программных продуктов.
-2. Описать технологическую схему и реализовать инструменты для поставки продуктов: начиная от коммита строчки кода разработчиком, до разворачивания готового продукта на инфраструктуре заказчика.
-3. Объединить в законченную систему различные решения в области Continuous Integration и Continuous Delivery, предлагаемые различными компаниями-разработчиками программного обеспечения и индивидуальными разработчиками. 
-4. Объединить различные компании и разработчиков вокруг готового открытого продукта и системы с полными функциями управления разработкой.
+**Our goal** is to have open source solutions for various aspects of Application Lifecycle Management (ALM), such as development, testing, delivery, deployment and licensing. 
+We want to:
+1. Accumulate knowledge related to Continuous Integration and Continuous Delivery (CI/CD) methodologies and best practices.
+2. Design and develop tools for continuous ALM support: from committing a line of code to deploying an app at the customer's infrastructure.
+3. Organize existing CI/CD solutions into a fully-functional system.
+4. Unite developers and companies around that such ALM system.
 
-**Главная нефункциональная цель.** Возможность развития инструментария и его использования каждым предприятием или человеком без любых ограничений, в том числе без патентных ограничений.
+We also want our tools to be accessible as easily as possible by software companies and individual developers alike.
 
+# Our projects <a name="Links"></a>
 
-# Ссылки на наши проекты <a name="Links"></a>
+***Published tools:***
 
-***Опубликованные инструменты:***
-
-**[ExampleProject](https://devopshq.github.io/ExampleProject/)** — это пример простого типового проекта в собществе DevOpsHQ с базовой функциональностью. Документация содержит в себе примеры и рекомендации для самостоятельной организации сборки любого нового проекта в сообществе DevOpsHQ. Сам проект имеет типовую структуру и сборку в Travis CI. Фактически, достаточно скопировать этот проект, заменить некоторые настройки и новый проект в сообществе готов к использованию!
-
-**[CrossPM](http://devopshq.github.io/crosspm/)** — универсальный пакетный менеджер.
-
-**[vspheretools](http://devopshq.github.io/vspheretools/)** — инструмент для управления виртуальными машинами на vSphere.
-
-**[YouTrack Python 3 Client Library](https://devopshq.github.io/youtrack/)** — Python-клиент для работы с API YouTrack.
-
-**[TFS API Python client](https://devopshq.github.io/tfs/)** — Python-клиент для работы с API Team Foundation Server от Microsoft.
-
-**[A Python client for Artifactory](https://devopshq.github.io/artifactory/)** — Python-клиент для работы с API хранилища бинарных данных Artifactory.
-
-**[FuzzyClassificator](https://devopshq.github.io/FuzzyClassificator/)** — нейро-нечёткий классификатор данных.
-
-***Готовятся к публикации:***
-
-**CrossBuilder** — система организации кросс-платформенных сборок Build As a Code, наподобие Travis CI, но независящая от используемой CI-системы (TeamCity, Jenkins, GitLab CI, Travis CI и прочих). 
-
-**ChangelogBuilder** — генератор релиз-нотов с описанием изменений по продукту, который получает и агрегирует данные из различных трекеров (TFS, YouTrack, GitLab, JIRA и прочих). 
-
-**pyteamcity** — свой доработанный python-клиент для работы с API TeamCity.
-
-**MSI SDK** — SDK для создания msi.-пакетов и deb.-пакетов для инсталляторов продуктов.
-
-**SupplyLab** — это Continuous Delivery система (GUS + FLUS + LicenseLab) для доставки продуктов, их обновлений и лицензий до инфраструктуры заказчика.
-
-**pytest-testrail** — плагин для pytest, который умеет пушить результаты тестов в testrail.
+**[ExampleProject](https://devopshq.github.io/ExampleProject/)** — typical example DevOpsHQ-project.
+Basic functionality is implemented, such as code quality, build, tests, deploy to pypi and notifications.
+Travis CI is used for CI/CD.
+Documentation contains examples and recommendations for deploying a project in a similar manner.
+Basically, this project can be used as a template for your own DevOpsHQ project.
 
 
-# О нас в Интернете <a name="About"></a>
+**[CrossPM](http://devopshq.github.io/crosspm/)** — cross-platform package manager.
 
-***Почитать про нас можно тут:***
+**[vspheretools](http://devopshq.github.io/vspheretools/)** — a set of tools for managing VMs in vSphere.
+
+**[YouTrack Python 3 Client Library](https://devopshq.github.io/youtrack/)** — python client for JetBrains YouTrack API.
+
+**[TFS API Python client](https://devopshq.github.io/tfs/)** — python client for Microsoft Team Foundation Server API.
+
+**[A Python client for Artifactory](https://devopshq.github.io/artifactory/)** — python client for JFrog Artifactory API.
+
+**[FuzzyClassificator](https://devopshq.github.io/FuzzyClassificator/)** — data classifier based on fuzzy logic and neural network technology.
+
+***Projects to be published:***
+
+**CrossBuilder** — cross-platform Build As a Code software, can be used with TeamCity, Jenkins, GitLab CI, Travis CI e.t.c. 
+
+**ChangelogBuilder** — generates products release notes by aggregating data from issue tracking systems (TFS, YouTrack, GitLab, JIRA e.t.c.). 
+
+**pyteamcity** — python client for JetBrains TeamCity API.
+
+**MSI SDK** — toolkit used to create msi and deb packages for product installers.
+
+**SupplyLab** — Continuous Delivery system (GUS + FLUS + LicenseLab). Delivers products, updates and licenses to customer.
+
+**pytest-testrail** — python client for publishing pytest results to Gurock TestRail.
+
+
+# About us <a name="About"></a>
+
+***Here are some articles (in Russian):***
 
 - "[Личный опыт: как выглядит наша система Continuous Integration](https://habrahabr.ru/company/pt/blog/313616/)" (статья на Хабре)
 - "[Миссия выполнима: как развить DevOps в компании со множеством проектов](https://habrahabr.ru/company/pt/blog/310584/)" (статья на Хабре)
 - "[DevOps в современных ИТ уже давно выделился в самостоятельную инженерную дисциплину﻿](http://samag.ru/archive/article/3543)" (интервью в Системном администраторе)
 - "[Автоматизация процессов разработки: как мы в Positive Technologies внедряли идеи DevOps](https://habrahabr.ru/company/pt/blog/343884/)" (статья на Хабре)
 
-***Посмотреть на наши решения можно тут:***
+***And some videos from our meetups (also in Russian):***
 
 - [Op!DevOps! 2016](https://www.youtube.com/playlist?list=PLEl1NAXHTFNxcKRN09VQThNbQ33neUyfn) — митап Op!DevOps! прошёл 7 октября 2016 г. в Москве. На нём в формате фаст-трека были озвучены проблемы в области автоматизации разработки и тестирования, а также предложены методы и средства их решения. 
     - "[Сообщество DevOpsHQ идеология и инструменты](https://www.youtube.com/watch?v=BeIeaeVVRbc&index=16&t=0s&list=PLEl1NAXHTFNxcKRN09VQThNbQ33neUyfn)" — анонс открытого сообщества Open DevOps Community. 
@@ -75,8 +81,8 @@ This is welcome page of the DevOpsHQ project. You can see english documentation 
     - "[Развитие сообщества Open DevOps Community](https://www.youtube.com/watch?v=fYjV-eZlvVA&t=46s&list=PLEl1NAXHTFNyUW3toSkHLL4Jl1cw4vWkc&index=8)" — рассказали о развитии сообщества Open DevOps Community, показали опубликованные проекты за 2017 год, поделились планами развития сообщества. 
 
 
-# Контакты <a name="Contacts"></a>
+# Contacts <a name="Contacts"></a>
 
-- По организационным вопросам можно обратиться к [Timur Gilmullin](https://github.com/Tim55667757): [tim55667757@gmail.com](mailto:tim55667757@gmail.com)   
-- Наш телеграмм-канал: [https://telegram.me/devopshq](https://telegram.me/devopshq)
-    - Немного [наших стикеров](https://telegram.me/addstickers/opdevops) для телеграмма :)
+- If you have any questions, please contact [Timur Gilmullin](https://github.com/Tim55667757): [tim55667757@gmail.com](mailto:tim55667757@gmail.com)   
+- Our Telegram channel: [https://telegram.me/devopshq](https://telegram.me/devopshq)
+    - Our Telegram [stickers](https://telegram.me/addstickers/opdevops) :)

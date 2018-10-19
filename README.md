@@ -37,33 +37,21 @@ Documentation contains examples and recommendations for deploying a project in a
 Basically, this project can be used as a template for your own DevOpsHQ project.
 
 
-**[dohq-teamcity](https://devopshq.github.io/teamcity)** — python package providing access to the JetBrains TeamCity server API.
-
-**[dohq-youtrack](https://devopshq.github.io/youtrack/)** — python client for JetBrains YouTrack API.
-
-**[dohq-tfs](https://devopshq.github.io/tfs/)** — python client for Microsoft Team Foundation Server API.
-
-**[dohq-artifactory](https://devopshq.github.io/artifactory/)** — python client for JFrog Artifactory API.
-
-**[CrossPM](http://devopshq.github.io/crosspm/)** — cross-platform package manager.
-
-**[vspheretools](http://devopshq.github.io/vspheretools/)** — a set of tools for managing VMs in vSphere.
-
-**[FuzzyClassificator](https://devopshq.github.io/FuzzyClassificator/)** — data classifier based on fuzzy logic and neural network technology.
+* **[dohq-teamcity](https://devopshq.github.io/teamcity)** — python package providing access to the JetBrains TeamCity server API.
+* **[dohq-youtrack](https://devopshq.github.io/youtrack/)** — python client for JetBrains YouTrack API.
+* **[dohq-tfs](https://devopshq.github.io/tfs/)** — python client for Microsoft Team Foundation Server API.
+* **[dohq-artifactory](https://devopshq.github.io/artifactory/)** — python client for JFrog Artifactory API.
+* **[CrossPM](http://devopshq.github.io/crosspm/)** — cross-platform package manager.
+* **[vspheretools](http://devopshq.github.io/vspheretools/)** — a set of tools for managing VMs in vSphere.
+* **[FuzzyClassificator](https://devopshq.github.io/FuzzyClassificator/)** — data classifier based on fuzzy logic and neural network technology.
 
 ***Projects to be published:***
 
-**CrossBuilder** — cross-platform Build As a Code software, can be used with TeamCity, Jenkins, GitLab CI, Travis CI e.t.c. 
-
-**ChangelogBuilder** — generates products release notes by aggregating data from issue tracking systems (TFS, YouTrack, GitLab, JIRA e.t.c.). 
-
-**pyteamcity** — python client for JetBrains TeamCity API.
-
-**MSI SDK** — toolkit used to create msi and deb packages for product installers.
-
-**SupplyLab** — Continuous Delivery system (GUS + FLUS + LicenseLab). Delivers products, updates and licenses to customer.
-
-**pytest-testrail** — python client for publishing pytest results to Gurock TestRail.
+* **CrossBuilder** — cross-platform Build As a Code software, can be used with TeamCity, Jenkins, GitLab CI, Travis CI e.t.c. 
+* **ChangelogBuilder** — generates products release notes by aggregating data from issue tracking systems (TFS, YouTrack, GitLab, JIRA e.t.c.). 
+* **MSI SDK** — toolkit used to create msi and deb packages for product installers.
+* **SupplyLab** — Continuous Delivery system (GUS + FLUS + LicenseLab). Delivers products, updates and licenses to customer.
+* **pytest-testrail** — python client for publishing pytest results to Gurock TestRail.
 
 
 # About us <a name="About"></a>

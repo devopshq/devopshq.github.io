@@ -37,15 +37,17 @@ Documentation contains examples and recommendations for deploying a project in a
 Basically, this project can be used as a template for your own DevOpsHQ project.
 
 
+**[dohq-teamcity](https://devopshq.github.io/teamcity)** — python package providing access to the JetBrains TeamCity server API.
+
+**[dohq-youtrack](https://devopshq.github.io/youtrack/)** — python client for JetBrains YouTrack API.
+
+**[dohq-tfs](https://devopshq.github.io/tfs/)** — python client for Microsoft Team Foundation Server API.
+
+**[dohq-artifactory](https://devopshq.github.io/artifactory/)** — python client for JFrog Artifactory API.
+
 **[CrossPM](http://devopshq.github.io/crosspm/)** — cross-platform package manager.
 
 **[vspheretools](http://devopshq.github.io/vspheretools/)** — a set of tools for managing VMs in vSphere.
-
-**[YouTrack Python 3 Client Library](https://devopshq.github.io/youtrack/)** — python client for JetBrains YouTrack API.
-
-**[TFS API Python client](https://devopshq.github.io/tfs/)** — python client for Microsoft Team Foundation Server API.
-
-**[A Python client for Artifactory](https://devopshq.github.io/artifactory/)** — python client for JFrog Artifactory API.
 
 **[FuzzyClassificator](https://devopshq.github.io/FuzzyClassificator/)** — data classifier based on fuzzy logic and neural network technology.
 

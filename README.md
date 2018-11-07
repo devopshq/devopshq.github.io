@@ -37,13 +37,13 @@ Documentation contains examples and recommendations for deploying a project in a
 Basically, this project can be used as a template for your own DevOpsHQ project.
 
 
-* **[dohq-teamcity](https://devopshq.github.io/teamcity)** — python package providing access to the JetBrains TeamCity server API.
-* **[dohq-youtrack](https://devopshq.github.io/youtrack/)** — python client for JetBrains YouTrack API.
-* **[dohq-tfs](https://devopshq.github.io/tfs/)** — python client for Microsoft Team Foundation Server API.
-* **[dohq-artifactory](https://devopshq.github.io/artifactory/)** — python client for JFrog Artifactory API.
-* **[CrossPM](http://devopshq.github.io/crosspm/)** — cross-platform package manager.
-* **[vspheretools](http://devopshq.github.io/vspheretools/)** — a set of tools for managing VMs in vSphere.
-* **[FuzzyClassificator](https://devopshq.github.io/FuzzyClassificator/)** — data classifier based on fuzzy logic and neural network technology.
+* **[dohq-teamcity](https://devopshq.github.io/teamcity)** — python package providing access to the JetBrains TeamCity server API. [GitHub](https://github.com/devopshq/teamcity)
+* **[dohq-youtrack](https://devopshq.github.io/youtrack/)** — python client for JetBrains YouTrack API.  [GitHub](https://github.com/devopshq/youtrack)
+* **[dohq-tfs](https://devopshq.github.io/tfs/)** — python client for Microsoft Team Foundation Server API. [GitHub](https://github.com/devopshq/tfs)
+* **[dohq-artifactory](https://devopshq.github.io/artifactory/)** — python client for JFrog Artifactory API. [GitHub](https://github.com/devopshq/artifactory)
+* **[CrossPM](http://devopshq.github.io/crosspm/)** — cross-platform package manager. [GitHub](https://github.com/devopshq/crosspm)
+* **[vspheretools](http://devopshq.github.io/vspheretools/)** — a set of tools for managing VMs in vSphere. [GitHub](https://github.com/devopshq/vspheretools)
+* **[FuzzyClassificator](https://devopshq.github.io/FuzzyClassificator/)** — data classifier based on fuzzy logic and neural network technology. [GitHub](https://github.com/devopshq/FuzzyClassificator)
 
 ***Projects to be published:***
 

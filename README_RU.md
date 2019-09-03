@@ -43,6 +43,10 @@ This is welcome page of the DevOpsHQ project. You can see english documentation 
 
 **[FuzzyClassificator](https://devopshq.github.io/FuzzyClassificator/)** — нейро-нечёткий классификатор данных.
 
+**[FuzzyRoutines](https://github.com/devopshq/FuzzyRoutines/)** — библиотека на python для работы с нечёткими шкалами, нечёткой логикой и нечёткими множествами.
+
+**[FunnyTestPage](https://github.com/devopshq/FunnyTestPage)** — простой тест: сможете ли вы стать тестировщиком интерфейсов?
+
 ***Готовятся к публикации:***
 
 **CrossBuilder** — система организации кросс-платформенных сборок Build As a Code, наподобие Travis CI, но независящая от используемой CI-системы (TeamCity, Jenkins, GitLab CI, Travis CI и прочих). 

@@ -44,6 +44,8 @@ Basically, this project can be used as a template for your own DevOpsHQ project.
 * **[CrossPM](http://devopshq.github.io/crosspm/)** — cross-platform package manager. [GitHub](https://github.com/devopshq/crosspm)
 * **[vspheretools](http://devopshq.github.io/vspheretools/)** — a set of tools for managing VMs in vSphere. [GitHub](https://github.com/devopshq/vspheretools)
 * **[FuzzyClassificator](https://devopshq.github.io/FuzzyClassificator/)** — data classifier based on fuzzy logic and neural network technology. [GitHub](https://github.com/devopshq/FuzzyClassificator)
+* **[FuzzyRoutines](https://github.com/devopshq/FuzzyRoutines/)** — python library to work with fuzzy scales, fuzzy logic and fuzzy sets.
+* **[FunnyTestPage](https://github.com/devopshq/FunnyTestPage)** — simple test (ru): can you become UI tester?
 
 ***Projects to be published:***
 
